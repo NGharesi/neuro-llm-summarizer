@@ -1,0 +1,10 @@
+Title: Sleep Spindles and Memory Consolidation in Young Adults
+
+Abstract:
+Researchers examined whether sleep spindle activity during a daytime nap was linked to memory consolidation in healthy young adults. The study included 36 university students between 18 and 24 years old. Participants completed a word-pair learning task before a 90-minute monitored nap and repeated the task after waking. Electroencephalography (EEG) was used to measure spindle density during non-rapid eye movement sleep. The researchers compared memory performance before and after the nap and tested whether spindle density predicted improvement.
+
+Results:
+Students with higher spindle density showed larger gains on the delayed memory test. Average recall accuracy improved from 61 percent before the nap to 74 percent after the nap. The relationship remained significant after controlling for baseline memory scores and total sleep time.
+
+Limitations:
+The sample was small and limited to healthy young adults, so the findings may not generalize to older adults or clinical populations. The study also focused on a short daytime nap rather than overnight sleep.
